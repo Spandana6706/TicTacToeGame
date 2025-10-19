@@ -17,9 +17,11 @@ A simple command-line Tic Tac Toe game built using Java. This game allows **two 
 
 ```bash
 javac *.java
-java Main
+java Main 
+```
+---
 
-📁 Project Structure
+## 📁 Project Structure
 TicTacToeGame/
 ├── Board.java      → Handles game board display & logic
 ├── Game.java       → Manages turns, moves & win/draw logic
@@ -28,7 +30,9 @@ TicTacToeGame/
 ├── README.md       → This file (project documentation)
 └── .gitignore      → Ignores unnecessary files like .class
 
-💻 Tech Stack
+---
+
+## 💻 Tech Stack
 
 Language: Java
 Runtime: JDK 8 or higher
