@@ -22,6 +22,7 @@ java Main
 ---
 
 ## 📁 Project Structure
+```pgsql
 TicTacToeGame/
 ├── Board.java      → Handles game board display & logic
 ├── Game.java       → Manages turns, moves & win/draw logic
@@ -29,6 +30,7 @@ TicTacToeGame/
 ├── Main.java       → Entry point, manages input & game start
 ├── README.md       → This file (project documentation)
 └── .gitignore      → Ignores unnecessary files like .class
+```
 
 ---
 
